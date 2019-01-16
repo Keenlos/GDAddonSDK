@@ -1,5 +1,5 @@
 # GD Addon SDK
 
-**Current version:** 0.10b [full 0.10.000 (beta)]
+**Current version:** 0.10b
 
 GDAPI in developing...
