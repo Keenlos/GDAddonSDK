@@ -2,6 +2,8 @@
 
 **Current version:** 0.10b
 
-GDAPI in developing...
-GDAPI progress:
-[▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱] (15%)
+GD API progress:
+▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱ (15%)
+
+GDA SDK progress:
+▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱ (10%)
