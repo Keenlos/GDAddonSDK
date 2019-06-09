@@ -1,12 +1,12 @@
 # GD Addon SDK
 
-**Current version:** 0.10.1b
+**Current version:** 0.10.2b
 
 GDAPI progress:
-▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱ (15%)
+▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱ (20%)
 
 GDA SDK progress (including GDAPI):
-▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱ (40%)
+▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱ (50%)
 
 
 
