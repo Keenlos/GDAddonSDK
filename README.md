@@ -2,18 +2,23 @@
 
 SDK for modules development
 
-## Consists of
-* GDAPI
-* ImGui
-* EX
+### Consists of
+* GDAPI _(cocos2d-x and GD classes/functions)_
+* ImGui _(dear imgui | [GitHub](http://github.com/ocornut/imgui))_
+* EX _(additional classes/functions)_
 
 
-**Current version:** 0.11.1b
+## Example
+```cpp
+//soon
+```
 
-GDAPI progress:
+## Progress
+
+GDAPI:
 ▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱ (25%)
 
-GDA SDK progress:
+GDA SDK:
 ▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱ (60%)
 
 
