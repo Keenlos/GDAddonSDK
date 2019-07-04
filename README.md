@@ -3,10 +3,10 @@
 **Current version:** 0.11.1b
 
 GDAPI progress:
-▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱ (20%)
+▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱ (25%)
 
-GDA SDK progress (including GDAPI):
-▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱ (50%)
+GDA SDK progress:
+▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱ (60%)
 
 
 
