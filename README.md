@@ -1,5 +1,13 @@
 # GD Addon SDK
 
+SDK for modules development
+
+## Consists of
+* GDAPI
+* ImGui
+* EX
+
+
 **Current version:** 0.11.1b
 
 GDAPI progress:
