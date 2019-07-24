@@ -3,7 +3,7 @@
 SDK for modules development
 
 ### Consists of
-* GDAPI _(cocos2d-x and GD classes/functions)_
+* GDAPI _(cocos2d-x, GD classes and custom extensions)_
 * ImGui _(dear imgui | [GitHub](http://github.com/ocornut/imgui))_
 * EX _(additional classes/functions)_
 
