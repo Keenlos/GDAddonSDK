@@ -1,3 +1,5 @@
+![Addon Logo](https://cdn.discordapp.com/attachments/439457786129285120/642313410368766025/GDAddonLogo_001-hd.png)
+
 # GD Addon SDK
 
 SDK for modules development
@@ -19,7 +21,7 @@ GDAPI:
 ▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱ (30%)
 
 GDA SDK:
-▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱ (65%)
+▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱ (70%)
 
 
 
