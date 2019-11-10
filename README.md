@@ -12,7 +12,17 @@ SDK for modules development
 
 ## Example
 ```cpp
-//soon
+#include "GDAModule.h"
+#include "EXLog.h"
+GDA_MODULE_CALLBACK(GDA_MODULE *pModule) {
+    pModule->setName("Example");
+    pModule->setAuthor("a man");
+    pModule->registerClickCallback(CALLBACK_L(void, GDA_MODULE *pModule) {
+        static int counter = 1;
+        EXLog("Counter = %d", counter++);
+    });
+    return true;
+}
 ```
 
 ## Progress
