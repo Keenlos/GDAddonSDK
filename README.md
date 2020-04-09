@@ -2,7 +2,7 @@
 
 # GD Addon SDK
 
-SDK for modules development
+Source Development Kit to modules developing
 
 ### Consists of
 * GDAPI _(cocos2d-x, GD classes and custom extensions)_
@@ -17,7 +17,7 @@ SDK for modules development
 GDA_MODULE_CALLBACK(GDA_MODULE *pModule) {
     pModule->setName("Example");
     pModule->setAuthor("a man");
-    pModule->registerClickCallback(CALLBACK_L(void, GDA_MODULE *pModule) {
+    pModule->setClickCallback(CALLBACK_L(void, GDA_MODULE *pModule) {
         static int counter = 1;
         EXLog("Counter = %d", counter++);
     });
